@@ -17,7 +17,7 @@ npm install
 # 启动服务 localhost:8013
 npm run dev
 
-# 构建生产环境
+# 构建生产环境 http://www.skyliu.top/eladmin-qd
 npm run build
 ```
 
